@@ -1,5 +1,5 @@
 # Proyecto---POO
-Space Ship Game
+# Space Ship Game
 Proyecto de Programación Orientada a Objetos 
 
 Integrantes: 
