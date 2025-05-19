@@ -1,5 +1,6 @@
 # Proyecto---POO
-Proyecto de Orientado a Objetos 
+Space Ship Game
+Proyecto de Programación Orientada a Objetos 
 
 Integrantes: 
 -Marco Daniel Cruz Ixta 
